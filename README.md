@@ -1,2 +1,1 @@
-# alphabet
-Alphabet is a Python module that makes editing and tweaking strings, lists, and dictionaries, easy and simple.
+[README.md](https://github.com/MontyPythoneer/alphabet/files/6967584/README.md)
