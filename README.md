@@ -1,5 +1,5 @@
 ## General Description
-PyAlphabet is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in PyAlphabet version 0.1: 
+PyAlpha is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in PyAlpha version 0.1: 
 * alphanum
 * numalpha
 * caesar_cipher
