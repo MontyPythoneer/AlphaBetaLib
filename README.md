@@ -1,5 +1,5 @@
 ## General Description
-PyAlpha is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in PyAlpha version 0.1: 
+PyBeta is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in PyBeta version 0.1: 
 * alphanum
 * numalpha
 * caesar_cipher
@@ -81,12 +81,12 @@ Capitalize capitalises all the words in a given string. If the given object is a
 
 ## Example Code
 ```
-from alphabet import morse_code_encode
+from PyBeta import morse_code_encode
 message=input('What would you like to translate: ')
 print('Morse Code: %s'%morse_code_encode(message))
 ```
 ```
-from alphabet import reverse
+from PyBeta import reverse
 message=input('Enter a message to reverse: ')
 print(reverse(message))
 ```
