@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'AlphaBetaLib',
   packages = ['AlphaBetaLib'],
-  version = '0.1',
+  version = '0.1.0',
   license='MIT',
   description = 'AlphaBetaLib has tools useful to format and edit strings, lists, and dictionaries quickly',
   long_description = 'AlphaBetaLib is a module to make editing and tweaking strings, lists, and dictionaries, easier. \
