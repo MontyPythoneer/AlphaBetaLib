@@ -10,7 +10,7 @@ This module has many useful function and more will be coming.',
   author = 'Habeb Rizmi',
   author_email = 'onlyforpython123@gmail.com',
   url = 'https://github.com/MontyPythoneer/pyalphabetica',
-  download_url = 'https://github.com/MontyPythoneer/AlphaBetaLib/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/MontyPythoneer/pyalphabetica/archive/refs/tags/v_0.1.0.tar.gz',
   keywords = ['dictionaries', 'strings', 'lists'],
   install_requires=[],
   classifiers=[
