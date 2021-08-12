@@ -1,15 +1,15 @@
 from setuptools import setup
 setup(
-  name = 'AlphaBetaLib',
-  packages = ['AlphaBetaLib'],
+  name = 'pyalphabetica',
+  packages = ['pyalphabetica'],
   version = '0.1.0',
   license='MIT',
-  description = 'AlphaBetaLib has tools useful to format and edit strings, lists, and dictionaries quickly',
-  long_description = 'AlphaBetaLib is a module to make editing and tweaking strings, lists, and dictionaries, easier. \
+  description = 'pyalphabetica has tools useful to format and edit strings, lists, and dictionaries quickly',
+  long_description = 'pyalphabetica is a module to make editing and tweaking strings, lists, and dictionaries, easier. \
 This module has many useful function and more will be coming.',
   author = 'Habeb Rizmi',
   author_email = 'onlyforpython123@gmail.com',
-  url = 'https://github.com/MontyPythoneer/AlphaBetaLib',
+  url = 'https://github.com/MontyPythoneer/pyalphabetica',
   download_url = 'https://github.com/MontyPythoneer/AlphaBetaLib/archive/refs/tags/v_01.tar.gz',
   keywords = ['dictionaries', 'strings', 'lists'],
   install_requires=[],
