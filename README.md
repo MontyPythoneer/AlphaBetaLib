@@ -1,5 +1,5 @@
 ## General Description
-AlphaBetaLib is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in AlphaBetaLib version 0.1: 
+Pyalphabetica is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in pyalphabetica version 0.1.0: 
 * alphanum
 * numalpha
 * caesar_cipher
@@ -81,12 +81,12 @@ Capitalize capitalises all the words in a given string. If the given object is a
 
 ## Example Code
 ```
-from AlphaBetaLib import morse_code_encode
+from pyalphabetica import morse_code_encode
 message=input('What would you like to translate: ')
 print('Morse Code: %s'%morse_code_encode(message))
 ```
 ```
-from AlphaBetaLib import reverse
+from pyalphabetica import reverse
 message=input('Enter a message to reverse: ')
 print(reverse(message))
 ```
