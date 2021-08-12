@@ -3,8 +3,8 @@ Pyalphabetica is a module to make editing and tweaking strings, lists, and dicti
 * alphanum
 * numalpha
 * caesar_cipher
-* morse_code_encoder
-* morse_code_decoder
+* morse_code_encode
+* morse_code_decode
 * titleize
 * reverse
 * combine
