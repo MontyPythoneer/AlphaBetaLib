@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'pyalphabetica',
   packages = ['pyalphabetica'],
-  version = '0.1',
+  version = '1.0.0',
   license='MIT',
   description = 'pyalphabetica has tools useful to format and edit strings, lists, and dictionaries quickly',
   long_description = 'pyalphabetica is a module to make editing and tweaking strings, lists, and dictionaries, easier. \
