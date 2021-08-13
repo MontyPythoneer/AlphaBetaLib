@@ -1,5 +1,5 @@
 ## General Description
-Pyalphabetica is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in pyalphabetica version 1.0.0: 
+Pyalphabetica is a module to make editing and tweaking strings, lists, and dictionaries, easier. This module has many useful function and more will be coming. Here is a list of the ones that are available in pyalphabetica version 1.0: 
 * alphanum
 * numalpha
 * caesar_cipher
