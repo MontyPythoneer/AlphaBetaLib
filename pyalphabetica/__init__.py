@@ -45,6 +45,8 @@ e.g. 27 ==> 'a'
 Any characters other than numbers or letters will be unchanged
 Any characters included must have a space between them otherwise a False value will be returned"""
     alphabet="abcdefghijklmnopqrstuvwxyz"
+    punctuation="!@#$%^&*()~`-_+={}[]|\:;,./<>?"
+    quotation=["'", '"']
     end=[]
     numbers=str(numbers)
     numbers=numbers.split()
